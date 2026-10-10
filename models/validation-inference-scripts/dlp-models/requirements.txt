@@ -1,6 +1,6 @@
 click==8.2.1
 cudf>=23.0.0
-datasets==3.6.0
+datasets==5.0.1
 gliner==0.2.20
 google_re2==1.1.20240702
 matplotlib==3.10.3
